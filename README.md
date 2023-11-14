@@ -16,25 +16,6 @@ Python and Pygame:
 The project is developed entirely in Python, a versatile and widely-used programming language.
 Pygame, a popular library for creating games in Python, is employed to enhance the visual and interactive elements of the Connect 4 game.
 
-How to Run
-To enjoy the Connect4-with-AI game on your local machine, follow these steps:
-
-Clone the Repository:
-
-Clone this repository to your local machine using the following command:
-git clone https://github.com/your-username/connect4-with-ai.git
-
-Navigate to the Project Directory:
-Move to the project directory using:
-cd connect4-with-ai
-
-Install Dependencies:
-Ensure you have Python and Pygame installed.
-pip install pygame
-
-Run the Game:
-Execute the game script to launch the Connect 4 game with the AI opponent.
-python connect4_with_ai.py
 
 Future Improvements
 While the current version offers an engaging gaming experience, there are several avenues for future improvements:
