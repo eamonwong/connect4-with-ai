@@ -33,4 +33,7 @@ This project was inspired by the love for classic games and the desire to explor
 
 Enjoy playing Connect4-with-AI! If you have any feedback or suggestions, feel free to open an issue or reach out. Happy gaming!
 
+https://github.com/eamonwong/connect4-with-ai/assets/75913022/edf35798-7a63-4f3d-8bc7-4f4e63da0103
+
+
 
