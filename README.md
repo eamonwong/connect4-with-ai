@@ -22,10 +22,13 @@ While the current version offers an engaging gaming experience, there are severa
 
 Enhanced AI Strategies:
 Implement more advanced AI strategies to make the opponent even more challenging.
+
 User Interface Enhancements:
 Improve the visual aspects of the game, including animations and user interface elements.
+
 Multiplayer Support:
 Introduce a multiplayer mode, allowing users to play against friends locally or online.
+
 Feel free to contribute to the project by forking the repository and submitting pull requests!
 
 Acknowledgments
