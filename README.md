@@ -3,7 +3,7 @@
 Welcome to Connect 4 with AI! This project is an implementation of the classic Connect 4 game, where you get to face off against a formidable AI opponent. The AI is set to the maximum difficulty level to provide users with a challenging and thrilling gaming experience. The entire project is built using Python and leverages the Pygame library for a visually appealing and interactive interface.
 
 
-Features
+## Features
 - Traditional Connect 4 Gameplay:
   - Experience the familiar and enjoyable gameplay of the traditional Connect 4 game.
   - Drop your colored discs strategically to connect four of them vertically, horizontally, or diagonally before your AI opponent does.
@@ -17,7 +17,7 @@ Features
   - Pygame, a popular library for creating games in Python, is employed to enhance the visual and interactive elements of the Connect 4 game.
 
 
-Future Improvements
+## Future Improvements
 
 While the current version offers an engaging gaming experience, there are several avenues for future improvements:
 
@@ -31,7 +31,7 @@ While the current version offers an engaging gaming experience, there are severa
   - Introduce a multiplayer mode, allowing users to play against friends locally or online.
 
 
-Acknowledgments
+## Acknowledgments
 
 This project was inspired by the love for classic games and the desire to explore AI implementation in a gaming context. Special thanks to the Pygame community for providing a robust framework for game development in Python.
 
