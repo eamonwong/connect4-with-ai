@@ -34,7 +34,7 @@ Feel free to contribute to the project by forking the repository and submitting 
 Acknowledgments
 This project was inspired by the love for classic games and the desire to explore AI implementation in a gaming context. Special thanks to the Pygame community for providing a robust framework for game development in Python.
 
-Enjoy playing Connect4-with-AI! If you have any feedback or suggestions, feel free to open an issue or reach out. Happy gaming!
+Enjoy playing Connect4-with-AI! 
 
 https://github.com/eamonwong/connect4-with-ai/assets/75913022/edf35798-7a63-4f3d-8bc7-4f4e63da0103
 
