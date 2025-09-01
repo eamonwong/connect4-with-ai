@@ -33,9 +33,7 @@ While the current version offers an engaging gaming experience, there are severa
 
 ## Acknowledgments
 
-This project was inspired by the love for classic games and the desire to explore AI implementation in a gaming context. Special thanks to the Pygame community for providing a robust framework for game development in Python.
-
-Enjoy playing Connect4-with-AI! 
+This project was inspired by the love for classic games and the desire to explore AI implementation in a gaming context. 
 
 https://github.com/eamonwong/connect4-with-ai/assets/75913022/edf35798-7a63-4f3d-8bc7-4f4e63da0103
 
